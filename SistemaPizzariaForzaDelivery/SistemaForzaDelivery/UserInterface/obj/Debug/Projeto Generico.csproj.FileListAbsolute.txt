@@ -1,0 +1,11 @@
+C:\Users\Rota Simuladores 4\Documents\Visual Studio 2013\Projects\Projeto Generico\Projeto Generico\bin\Debug\Projeto Generico.exe.config
+C:\Users\Rota Simuladores 4\Documents\Visual Studio 2013\Projects\Projeto Generico\Projeto Generico\bin\Debug\Projeto Generico.exe
+C:\Users\Rota Simuladores 4\Documents\Visual Studio 2013\Projects\Projeto Generico\Projeto Generico\bin\Debug\Projeto Generico.pdb
+C:\Users\Rota Simuladores 4\Documents\Visual Studio 2013\Projects\Projeto Generico\Projeto Generico\obj\Debug\Projeto Generico.csprojResolveAssemblyReference.cache
+C:\Users\Rota Simuladores 4\Documents\Visual Studio 2013\Projects\Projeto Generico\Projeto Generico\obj\Debug\Projeto_Generico.Properties.Resources.resources
+C:\Users\Rota Simuladores 4\Documents\Visual Studio 2013\Projects\Projeto Generico\Projeto Generico\obj\Debug\Projeto Generico.csproj.GenerateResource.Cache
+C:\Users\Rota Simuladores 4\Documents\Visual Studio 2013\Projects\Projeto Generico\Projeto Generico\obj\Debug\Projeto Generico.exe
+C:\Users\Rota Simuladores 4\Documents\Visual Studio 2013\Projects\Projeto Generico\Projeto Generico\obj\Debug\Projeto Generico.pdb
+C:\Users\Tehort\Downloads\Projeto Generico\Projeto Generico\Projeto Generico\bin\Debug\Projeto Generico.exe.config
+C:\Users\Tehort\Downloads\Projeto Generico\Projeto Generico\Projeto Generico\obj\Debug\Projeto Generico.exe
+C:\Users\Tehort\Downloads\Projeto Generico\Projeto Generico\Projeto Generico\obj\Debug\Projeto Generico.pdb

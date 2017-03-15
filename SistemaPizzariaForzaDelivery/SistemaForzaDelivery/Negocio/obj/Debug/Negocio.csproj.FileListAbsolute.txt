@@ -1,0 +1,9 @@
+C:\Users\gilse\Desktop\SistemaForzaDelivery\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\gilse\Desktop\SistemaForzaDelivery\Negocio\bin\Debug\Negocio.dll
+C:\Users\gilse\Desktop\SistemaForzaDelivery\Negocio\bin\Debug\Negocio.pdb
+C:\Users\gilse\Desktop\SistemaForzaDelivery\Negocio\bin\Debug\BaseDados.dll
+C:\Users\gilse\Desktop\SistemaForzaDelivery\Negocio\bin\Debug\Entidades.dll
+C:\Users\gilse\Desktop\SistemaForzaDelivery\Negocio\bin\Debug\BaseDados.pdb
+C:\Users\gilse\Desktop\SistemaForzaDelivery\Negocio\bin\Debug\Entidades.pdb
+C:\Users\gilse\Desktop\SistemaForzaDelivery\Negocio\obj\Debug\Negocio.dll
+C:\Users\gilse\Desktop\SistemaForzaDelivery\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,15 @@
+c:\users\notebook03\documents\visual studio 2013\Projects\Projeto Generico\BaseDados\obj\Debug\BaseDados.csprojResolveAssemblyReference.cache
+c:\users\notebook03\documents\visual studio 2013\Projects\Projeto Generico\BaseDados\bin\Debug\BaseDados.dll
+c:\users\notebook03\documents\visual studio 2013\Projects\Projeto Generico\BaseDados\bin\Debug\BaseDados.pdb
+c:\users\notebook03\documents\visual studio 2013\Projects\Projeto Generico\BaseDados\bin\Debug\Entidades.dll
+c:\users\notebook03\documents\visual studio 2013\Projects\Projeto Generico\BaseDados\bin\Debug\MySql.Data.dll
+c:\users\notebook03\documents\visual studio 2013\Projects\Projeto Generico\BaseDados\bin\Debug\Entidades.pdb
+c:\users\notebook03\documents\visual studio 2013\Projects\Projeto Generico\BaseDados\obj\Debug\BaseDados.dll
+c:\users\notebook03\documents\visual studio 2013\Projects\Projeto Generico\BaseDados\obj\Debug\BaseDados.pdb
+C:\Users\gilse\Desktop\SistemaForzaDelivery\BaseDados\obj\Debug\BaseDados.csprojResolveAssemblyReference.cache
+C:\Users\gilse\Desktop\SistemaForzaDelivery\BaseDados\obj\Debug\BaseDados.dll
+C:\Users\gilse\Desktop\SistemaForzaDelivery\BaseDados\obj\Debug\BaseDados.pdb
+C:\Users\gilse\Desktop\SistemaForzaDelivery\BaseDados\bin\Debug\BaseDados.dll
+C:\Users\gilse\Desktop\SistemaForzaDelivery\BaseDados\bin\Debug\BaseDados.pdb
+C:\Users\gilse\Desktop\SistemaForzaDelivery\BaseDados\bin\Debug\Entidades.dll
+C:\Users\gilse\Desktop\SistemaForzaDelivery\BaseDados\bin\Debug\Entidades.pdb

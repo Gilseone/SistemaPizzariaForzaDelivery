@@ -4,6 +4,6 @@
 	{
 		int Codigo { get; set; }
 
-        string Descricao { get;}
+        string Titulo { get;}
     }
 }

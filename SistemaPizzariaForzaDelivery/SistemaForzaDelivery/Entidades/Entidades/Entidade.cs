@@ -9,14 +9,14 @@ namespace Entidades.Entidades
         
         }
         
-        public Entidade(int codigo, string descricao)
+        public Entidade(int codigo, string titulo)
         {
             Codigo = codigo;
-            Descricao = descricao;
+            Titulo = titulo;
         }
 
         public int Codigo { get; set; }
 
-        public string Descricao { get; set; }
+        public string Titulo { get; set; }
     }
 }

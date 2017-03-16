@@ -8,7 +8,7 @@ using System.Text;
 using System.Windows.Forms;
 
 
-namespace Projeto_Generico
+namespace UserInterface
 {
     public partial class Form1 : Form
     {
@@ -16,6 +16,36 @@ namespace Projeto_Generico
         {
                      
             InitializeComponent();
+        }
+
+        private void BtnBscCodigo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TxtCodigo_Validating(object sender, CancelEventArgs e)
+        {
+
+        }
+
+        private void BtnConfirmar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnExcluir_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnCancelar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void BtnAjuda_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -52,8 +52,11 @@
     <Compile Include="DAL\DBManagerBase.cs" />
     <Compile Include="Login\ConexaoBanco.cs" />
     <Compile Include="Login\LoginBD.cs" />
+    <Compile Include="Modulos\FuncoesBD.cs" />
     <Compile Include="PandaRockstarBD.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TamanhoPizzaBD.cs" />
+    <Compile Include="SaborPizzaBD.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Entidades\Entidades.csproj">
@@ -61,6 +64,7 @@
       <Name>Entidades</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -7,3 +7,14 @@ C:\Users\gilse\Desktop\SistemaForzaDelivery\Negocio\bin\Debug\BaseDados.pdb
 C:\Users\gilse\Desktop\SistemaForzaDelivery\Negocio\bin\Debug\Entidades.pdb
 C:\Users\gilse\Desktop\SistemaForzaDelivery\Negocio\obj\Debug\Negocio.dll
 C:\Users\gilse\Desktop\SistemaForzaDelivery\Negocio\obj\Debug\Negocio.pdb
+C:\Users\gilse\SistemaPizzariaForzaDelivery\SistemaPizzariaForzaDelivery\SistemaForzaDelivery\Negocio\bin\Debug\Negocio.dll
+C:\Users\gilse\SistemaPizzariaForzaDelivery\SistemaPizzariaForzaDelivery\SistemaForzaDelivery\Negocio\bin\Debug\Negocio.pdb
+C:\Users\gilse\SistemaPizzariaForzaDelivery\SistemaPizzariaForzaDelivery\SistemaForzaDelivery\Negocio\bin\Debug\BaseDados.dll
+C:\Users\gilse\SistemaPizzariaForzaDelivery\SistemaPizzariaForzaDelivery\SistemaForzaDelivery\Negocio\bin\Debug\Entidades.dll
+C:\Users\gilse\SistemaPizzariaForzaDelivery\SistemaPizzariaForzaDelivery\SistemaForzaDelivery\Negocio\bin\Debug\MySql.Data.dll
+C:\Users\gilse\SistemaPizzariaForzaDelivery\SistemaPizzariaForzaDelivery\SistemaForzaDelivery\Negocio\bin\Debug\BaseDados.pdb
+C:\Users\gilse\SistemaPizzariaForzaDelivery\SistemaPizzariaForzaDelivery\SistemaForzaDelivery\Negocio\bin\Debug\Entidades.pdb
+C:\Users\gilse\SistemaPizzariaForzaDelivery\SistemaPizzariaForzaDelivery\SistemaForzaDelivery\Negocio\bin\Debug\MySql.Data.xml
+C:\Users\gilse\SistemaPizzariaForzaDelivery\SistemaPizzariaForzaDelivery\SistemaForzaDelivery\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\gilse\SistemaPizzariaForzaDelivery\SistemaPizzariaForzaDelivery\SistemaForzaDelivery\Negocio\obj\Debug\Negocio.dll
+C:\Users\gilse\SistemaPizzariaForzaDelivery\SistemaPizzariaForzaDelivery\SistemaForzaDelivery\Negocio\obj\Debug\Negocio.pdb

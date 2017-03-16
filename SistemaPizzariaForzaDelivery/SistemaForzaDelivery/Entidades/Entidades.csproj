@@ -39,7 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entidades\EntidadeViewPesquisa.cs" />
     <Compile Include="Entidades\Usuario.cs" />
+    <Compile Include="InfoCadastro.cs" />
     <Compile Include="InfraestruturaBD\DatabaseConnectionState.cs" />
     <Compile Include="Entidades\Entidade.cs" />
     <Compile Include="InfraestruturaBD\IBD.cs" />
@@ -49,8 +51,18 @@
     <Compile Include="InfraestruturaBD\ListItem.cs" />
     <Compile Include="InfraestruturaBD\ProviderType.cs" />
     <Compile Include="InfraestruturaBD\StoredProcedureParameterDirection.cs" />
+    <Compile Include="Libs\EnumExtensions.cs" />
+    <Compile Include="Libs\StringValueAttribute.cs" />
     <Compile Include="PandaRockstar.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TamanhoPizza.cs" />
+    <Compile Include="SaborPizza.cs" />
+    <Compile Include="Sistema\Sessao.cs" />
+    <Compile Include="Tipos\ComparadorString.cs" />
+    <Compile Include="Tipos\OrdemValidacaoDatas.cs" />
+    <Compile Include="Tipos\PosicaoCalendario.cs" />
+    <Compile Include="Tipos\TipoMensagem.cs" />
+    <Compile Include="Tipos\TipoSituacao.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

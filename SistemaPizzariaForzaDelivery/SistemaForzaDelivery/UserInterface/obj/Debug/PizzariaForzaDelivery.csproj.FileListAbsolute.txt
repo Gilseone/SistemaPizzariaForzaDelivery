@@ -1,8 +1,0 @@
-C:\Users\gilse\Desktop\SistemaForzaDelivery\PizzariaForzaDelivery\bin\Debug\PizzariaForzaDelivery.exe.config
-C:\Users\gilse\Desktop\SistemaForzaDelivery\PizzariaForzaDelivery\bin\Debug\PizzariaForzaDelivery.exe
-C:\Users\gilse\Desktop\SistemaForzaDelivery\PizzariaForzaDelivery\bin\Debug\PizzariaForzaDelivery.pdb
-C:\Users\gilse\Desktop\SistemaForzaDelivery\PizzariaForzaDelivery\obj\Debug\PizzariaForzaDelivery.csprojResolveAssemblyReference.cache
-C:\Users\gilse\Desktop\SistemaForzaDelivery\PizzariaForzaDelivery\obj\Debug\PizzariaForzaDelivery.Properties.Resources.resources
-C:\Users\gilse\Desktop\SistemaForzaDelivery\PizzariaForzaDelivery\obj\Debug\PizzariaForzaDelivery.csproj.GenerateResource.Cache
-C:\Users\gilse\Desktop\SistemaForzaDelivery\PizzariaForzaDelivery\obj\Debug\PizzariaForzaDelivery.exe
-C:\Users\gilse\Desktop\SistemaForzaDelivery\PizzariaForzaDelivery\obj\Debug\PizzariaForzaDelivery.pdb
